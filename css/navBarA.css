@@ -1,0 +1,26 @@
+
+
+#hind{
+    font-weight: bold;
+}
+
+.row{
+    margin-bottom:10px;
+}
+
+#menyy, #ostukorv, #tellimus{
+    display:none;
+}
+
+#jubotronBorder{
+    background: white;
+    border:1px solid ;
+}
+
+.orange{
+  color: #eb9316 !important;
+}
+
+#dialogg {
+    display: none;
+}
